@@ -1,0 +1,14 @@
+package com.coderscampus.domain;
+
+import javax.persistence.Entity;
+
+/*
+ * User describes columns such as Long id, String username & String password.
+ * This is where getters and setters should be too.
+ */
+@Entity
+public class User 
+{
+	
+
+}
